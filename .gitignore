@@ -1,0 +1,11 @@
+# Logs
+*.log
+wupm.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS
+Thumbs.db
+.DS_Store
